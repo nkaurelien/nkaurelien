@@ -10,7 +10,7 @@
   <a href="https://nkaurelien.kamitbrains.fr/fr"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=aboutdotme&logoColor=white" alt="Portfolio"/></a>
   <a href="https://linktr.ee/nkaurelien"><img src="https://img.shields.io/badge/Linktree-43E55E?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree"/></a>
   <a href="https://gitlab.com/nkaurelien"><img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab"/></a>
-  <a href="mailto:nkumbeaurelien@hotmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="mailto:nkumbe.aurelien@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 ---
@@ -122,4 +122,4 @@
 - 💼 [**LinkedIn**](https://www.linkedin.com/in/nkaurelien/)
 - 🌍 [**Portfolio**](https://nkaurelien.kamitbrains.fr/fr)
 - 🌳 [**Linktree**](https://linktr.ee/nkaurelien)
-- 📧 [**Email**](mailto:nkumbeaurelien@hotmail.com)
+- 📧 [**Email**](mailto:nkumbe.aurelien@gmail.com)
