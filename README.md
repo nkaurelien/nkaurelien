@@ -89,11 +89,29 @@
 
 ---
 
+### 📌 Projets en vedette
+
+| Projet | Description | Stack |
+|--------|-------------|-------|
+| [**momopay**](https://github.com/nkaurelien/momopay) ⭐ | Paiement mobile (Mobile Money) au Cameroun | `PHP` |
+| [**mise-devtools**](https://github.com/nkaurelien/mise-devtools) ⭐ | Setup d'environnement de dev piloté par mise-en-place | `Shell` |
+| [**webmethods-devops-portfolio**](https://github.com/nkaurelien/webmethods-devops-portfolio) | Automatisation d'infra webMethods (Terraform, Ansible, Docker) | `Terraform` `Ansible` |
+| [**couchdb-manager**](https://github.com/nkaurelien/couchdb-manager) | Interface de gestion CouchDB (backup / restore / sync) | `Python` `Streamlit` |
+| [**fhir-nextjs-starter**](https://github.com/nkaurelien/fhir-nextjs-starter) | Starter santé FHIR/HL7 avec Next.js | `Next.js` `FHIR` |
+| [**conversation_openai_api**](https://github.com/nkaurelien/conversation_openai_api) | Expérimentations IA conversationnelle (OpenAI) | `Python` `LLM` |
+| [**angular-fastapi-traefik**](https://github.com/nkaurelien/angular-fastapi-traefik) | Boilerplate fullstack Angular + FastAPI derrière Traefik | `Angular` `FastAPI` |
+
+---
+
 ### 📊 Statistiques GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=nkaurelien&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nkaurelien&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=nkaurelien&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nkaurelien&layout=compact&count_private=true&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=nkaurelien&theme=tokyonight&no-frame=true&column=7&margin-w=8" alt="Trophées"/>
 </p>
 
 ---
