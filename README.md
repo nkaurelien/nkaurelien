@@ -23,7 +23,7 @@
 - 🏥 Actuellement chez **DATA2INNOV**, je conçois des applications web, données et **IoT** conformes aux normes **FHIR/HL7** dans le domaine de la santé.
 - 🤖 Je conçois des applications **IA & RAG** (LangChain, LiteLLM, OpenAI, Ollama) et des chatbots métiers.
 - 🌱 Curieux et adaptable : j'apprends par la pratique, en soignant le détail, le **clean code** et les principes **SOLID**.
-- 🌍 Disponible immédiatement, flexible et mobile sur les missions longues.
+- 🌍 Plutôt ouvert aux opportunités.
 
 ---
 
