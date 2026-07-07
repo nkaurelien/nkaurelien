@@ -1,7 +1,12 @@
 <h1 align="center">Salut, je suis Astrid-Aurélien 👋</h1>
 
+<div align="center">
+  <img src="https://img.shields.io/badge/D%C3%A9veloppeur%20Ops-Fullstack-blue?style=for-the-badge&logo=docker&logoColor=white" alt="DevOps"/>
+  <img src="https://img.shields.io/badge/Tech%20Lead-MOE%20%2F%20AMOE-green?style=for-the-badge&logo=git&logoColor=white" alt="Tech Lead"/>
+  <img src="https://img.shields.io/badge/IA%20%26%20Donn%C3%A9es-Sp%C3%A9cialiste-red?style=for-the-badge&logo=openai&logoColor=white" alt="IA"/>
+</div>
+
 <p align="center">
-  <b>Développeur'Ops Fullstack Polyvalent</b> — DevSecOps · SysOps · Data & IA<br/>
   <i>7+ ans d'expérience · Passionné d'innovation, de Design Thinking et d'amélioration continue</i>
 </p>
 
@@ -90,6 +95,15 @@
 - 🔭 **DATA2INNOV** — Plateforme santé IoT (FHIR/HL7) : apps patient & médecin (Next.js / FastAPI), collecte et interprétation de données physiologiques (EmotiBit-ESP32, Withings, Bangle.js), pipelines temps réel (Logstash, WebSockets), POC mobile Flutter (BLE/WiFi).
 - 🤖 **IA & RAG** — Chatbots métiers, extraction/transformation de documents et bases de connaissances vectorielles.
 - ⚙️ **DevSecOps** — CI/CD GitLab, Docker Compose & Ansible, observabilité (ELK, Signoz), analyse statique & sécurité des dépendances (Snyk).
+
+---
+
+### 🌱 Apprentissages & Objectifs en cours
+
+- 🤖 **Orchestration d'agents (Ruflo)** `[████████--] 80%`
+- 🏥 **Normes de santé & IoT (FHIR/HL7)** `[█████████-] 90%`
+- ⛓️ **RAG & Agents IA (LangChain, Ollama)** `[████████▓-] 85%`
+- ☸️ **SecOps & Kubernetes (ArgoCD)** `[███████---] 70%`
 
 ---
 
