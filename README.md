@@ -3,7 +3,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/D%C3%A9veloppeur%20Ops-Fullstack-blue?style=for-the-badge&logo=docker&logoColor=white" alt="DevOps"/>
   <img src="https://img.shields.io/badge/Tech%20Lead-MOE%20%2F%20AMOE-green?style=for-the-badge&logo=git&logoColor=white" alt="Tech Lead"/>
-  <img src="https://img.shields.io/badge/IA%20%26%20Donn%C3%A9es-Sp%C3%A9cialiste-red?style=for-the-badge&logo=openai&logoColor=white" alt="IA"/>
+  <img src="https://img.shields.io/badge/IA%20%26%20Donn%C3%A9es-Praticien-red?style=for-the-badge&logo=openai&logoColor=white" alt="IA"/>
 </div>
 
 <p align="center">
