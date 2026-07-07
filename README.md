@@ -114,7 +114,7 @@
 
 - 🏥 **Normes de santé & IoT (FHIR/HL7)** `[██████▒---] 65%`
 - ⛓️ **RAG & Agents IA (LangChain, Ollama)** `[██████▒---] 65%`
-- ☸️ **SecOps & Orchestration (Kubernetes / Argo ou Swarm)** `[███████---] 70%`
+- ☸️ **SecOps & Orchestration (Kubernetes / Argo ou Swarm)** `[██████▒---] 65%`
 - 📋 **Spec-Driven Development (Speckit / SDD)** `[███████▓--] 75%`
 - 📊 **Observabilité en ligne (Grafana, Loki, Alloy, Netdata, etc.)** `[███████---] 70%`
 
