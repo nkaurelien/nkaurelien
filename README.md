@@ -112,7 +112,7 @@
 
 ### 🌱 Apprentissages & Objectifs en cours
 
-- 🏥 **Normes de santé & IoT (FHIR/HL7)** `[███████---] 70%`
+- 🏥 **Normes de santé & IoT (FHIR/HL7)** `[██████▒---] 65%`
 - ⛓️ **RAG & Agents IA (LangChain, Ollama)** `[██████▒---] 65%`
 - ☸️ **SecOps & Orchestration (Kubernetes / Argo ou Swarm)** `[███████---] 70%`
 - 📋 **Spec-Driven Development (Speckit / SDD)** `[███████▓--] 75%`
