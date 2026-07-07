@@ -99,7 +99,7 @@
 
 ### 🌱 Apprentissages & Objectifs en cours
 
-- 🤖 **Orchestration d'agents (Ruflo)** `[████████--] 80%`
+- 🤖 **Orchestration d'agents (Ruflo)** `[█████-----] 50%`
 - 🏥 **Normes de santé & IoT (FHIR/HL7)** `[█████████-] 90%`
 - ⛓️ **RAG & Agents IA (LangChain, Ollama)** `[████████▓-] 85%`
 - ☸️ **SecOps & Kubernetes (ArgoCD)** `[███████---] 70%`
