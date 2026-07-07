@@ -73,10 +73,18 @@
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
 ![LiteLLM](https://img.shields.io/badge/LiteLLM-5A5AF3?style=for-the-badge&logo=fastapi&logoColor=white)
-![Elastic](https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge&logo=elasticstack&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 ![Spark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino_%2F_IoT-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+
+**Observabilité (Run)**
+
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Loki](https://img.shields.io/badge/Loki-9568FF?style=for-the-badge&logo=grafana&logoColor=white)
+![Netdata](https://img.shields.io/badge/Netdata-00AB81?style=for-the-badge&logo=netdata&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![SigNoz](https://img.shields.io/badge/SigNoz-FF5A5F?style=for-the-badge)
+![Elastic](https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge&logo=elasticstack&logoColor=white)
 
 **Bases de données**
 
