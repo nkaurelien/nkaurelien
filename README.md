@@ -105,7 +105,7 @@
 - ⛓️ **RAG & Agents IA (LangChain, Ollama)** `[████████▓-] 85%`
 - ☸️ **SecOps & Orchestration (Kubernetes / Argo ou Swarm)** `[███████---] 70%`
 - 📋 **Spec-Driven Development (Speckit / SDD)** `[███████---] 70%`
-- 📊 **Observabilité en ligne (Netdata, etc.)** `[███████---] 70%`
+- 📊 **Observabilité en ligne (Grafana, Loki, Netdata, etc.)** `[███████---] 70%`
 
 ---
 
