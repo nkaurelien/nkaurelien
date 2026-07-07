@@ -82,6 +82,7 @@
 
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![Loki](https://img.shields.io/badge/Loki-9568FF?style=for-the-badge&logo=grafana&logoColor=white)
+![Alloy](https://img.shields.io/badge/Alloy-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![Netdata](https://img.shields.io/badge/Netdata-00AB81?style=for-the-badge&logo=netdata&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![SigNoz](https://img.shields.io/badge/SigNoz-FF5A5F?style=for-the-badge)
@@ -115,7 +116,7 @@
 - ⛓️ **RAG & Agents IA (LangChain, Ollama)** `[████████▓-] 85%`
 - ☸️ **SecOps & Orchestration (Kubernetes / Argo ou Swarm)** `[███████---] 70%`
 - 📋 **Spec-Driven Development (Speckit / SDD)** `[███████---] 70%`
-- 📊 **Observabilité en ligne (Grafana, Loki, Netdata, etc.)** `[███████---] 70%`
+- 📊 **Observabilité en ligne (Grafana, Loki, Alloy, Netdata, etc.)** `[███████---] 70%`
 
 ---
 
