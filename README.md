@@ -102,7 +102,7 @@
 - 🤖 **Orchestration d'agents (Ruflo)** `[█████-----] 50%`
 - 🏥 **Normes de santé & IoT (FHIR/HL7)** `[█████████-] 90%`
 - ⛓️ **RAG & Agents IA (LangChain, Ollama)** `[████████▓-] 85%`
-- ☸️ **SecOps & Kubernetes ou Swarm** `[███████---] 70%`
+- ☸️ **SecOps & Orchestration (Kubernetes ou Swarm)** `[███████---] 70%`
 - 📋 **Spec-Driven Development (Speckit / SDD)** `[███████---] 70%`
 
 ---
