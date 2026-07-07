@@ -12,8 +12,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nkaurelien/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://nkaurelien.github.io"><img src="https://img.shields.io/badge/Site-181717?style=for-the-badge&logo=githubpages&logoColor=white" alt="Site"/></a>
-  <a href="https://nkaurelien.kamitbrains.fr/fr"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=aboutdotme&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://nkaurelien.github.io"><img src="https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"/></a>
   <a href="https://calendly.com/nkumbe-aurelien/30-minute-meeting-clone"><img src="https://img.shields.io/badge/Agenda-006BFF?style=for-the-badge&logo=calendly&logoColor=white" alt="Agenda"/></a>
   <a href="https://linktr.ee/nkaurelien"><img src="https://img.shields.io/badge/Linktree-43E55E?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree"/></a>
   <a href="https://gitlab.com/nkaurelien"><img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab"/></a>
@@ -138,6 +137,6 @@
 
 - 💼 [**LinkedIn**](https://www.linkedin.com/in/nkaurelien/)
 - 📅 [**Agenda (Calendly)**](https://calendly.com/nkumbe-aurelien/30-minute-meeting-clone)
-- 🌍 [**Portfolio**](https://nkaurelien.kamitbrains.fr/fr)
+- 🌍 [**Portfolio**](https://nkaurelien.github.io)
 - 🌳 [**Linktree**](https://linktr.ee/nkaurelien)
 - 📧 [**Email**](mailto:nkumbeaurelien@hotmail.com)
