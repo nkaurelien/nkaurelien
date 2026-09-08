@@ -1,3 +1,7 @@
+---
+tags: readme, documentation, nextjs, portfolio
+---
+
 <h1 align="center">Salut, je suis Astrid-Aurélien 👋</h1>
 
 <div align="center">
