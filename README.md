@@ -34,12 +34,13 @@ Je suis **Lead Tech** chez **DATA2INNOV** (santé connectée, FHIR/HL7) et fonda
 
 ## En vitrine
 
-### 🧠 [nkaurelien.github.io](https://github.com/nkaurelien/nkaurelien.github.io) — un portfolio qui répond à vos questions
+### 🧠 [nkaurelien.kamitbrains.fr](https://nkaurelien.kamitbrains.fr) — un portfolio qui répond à vos questions
 
 <p>
   <a href="https://github.com/nkaurelien/nkaurelien.github.io/actions/workflows/lint.yml"><img alt="CI" src="https://img.shields.io/github/actions/workflow/status/nkaurelien/nkaurelien.github.io/lint.yml?style=flat-square&label=CI&logo=githubactions&logoColor=white"></a>
   <img alt="Next.js 15" src="https://img.shields.io/badge/Next.js-15-000000?style=flat-square&logo=nextdotjs">
   <img alt="Genkit" src="https://img.shields.io/badge/Genkit-RAG%20%2B%20outils-cc0806?style=flat-square">
+  <a href="https://github.com/nkaurelien/nkaurelien.github.io"><img alt="Code source" src="https://img.shields.io/badge/code-nkaurelien.github.io-181717?style=flat-square&logo=github"></a>
 </p>
 
 **Le problème :** un recruteur n'a pas le temps de lire un CV de 3 pages ni 30 articles de blog.
