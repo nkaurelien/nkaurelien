@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-label="Aurélien NKUMBE — Lead Tech, DevSecOps &amp; Platform Engineer">
+  <defs>
+    <radialGradient id="glow" cx="28%" cy="35%" r="65%">
+      <stop offset="0" stop-color="#a90504" stop-opacity=".55"/>
+      <stop offset="1" stop-color="#a90504" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="name" x1="0" x2="1">
+      <stop offset="0" stop-color="#fb5f59"/>
+      <stop offset="1" stop-color="#ff8a65"/>
+    </linearGradient>
+    <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse">
+      <circle cx="1" cy="1" r="1" fill="#ffffff" fill-opacity=".08"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="260" rx="16" fill="#0c0909"/>
+  <rect width="1200" height="260" rx="16" fill="url(#glow)"/>
+  <rect width="1200" height="260" rx="16" fill="url(#dots)"/>
+  <text x="64" y="84" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="16" letter-spacing="3" fill="#ffffff" fill-opacity=".6">BONJOUR, JE SUIS</text>
+  <text x="60" y="160" font-family="Inter,Segoe UI,Helvetica,Arial,sans-serif" font-size="72" font-weight="900" letter-spacing="-2" fill="#ffffff">Aurélien <tspan fill="url(#name)">NKUMBE</tspan></text>
+  <text x="64" y="206" font-family="Inter,Segoe UI,Helvetica,Arial,sans-serif" font-size="22" fill="#ffffff" fill-opacity=".85">Lead Tech · DevSecOps &amp; Platform Engineer · fondateur de <tspan fill="#ff8f8a">Kamitbrains IT</tspan></text>
+</svg>
